@@ -1,7 +1,7 @@
 name: asgmedia
 favicon: null
-layout_spectrum: 0.23979270295239985
-typography_spectrum: 0.559952735202387
+layout_spectrum: 0.56249
+typography_spectrum: 0.84647
 title: MOTION / VFX / VIDEO PRODUCTION
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.9966110379900783
-  lightness: 0.8031856722664088
-  saturation: 0.5533248686697334
-  rhythmicContrast: 0.47615989414043725
+    - '#04050b'
+    - '#ffffff'
+    - '#c51523'
+    - '#adaeb0'
+    - '#4b4c4f'
+  brandStrength: 0.75
+  lightness: 0.0625
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
