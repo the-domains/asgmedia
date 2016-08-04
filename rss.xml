@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[MOTION / VFX / VIDEO PRODUCTION]]></title>
         <description><![CDATA[MOTION / VFX / VIDEO PRODUCTION]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/asgmedia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 16:28:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Aug 2016 16:30:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/asgmedia/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>A work done for Causeview, a donor management app WATCH  </p>]]></description>
-            <link>undefineda-work-done-for-causeview-a-donor-management-app-watch/index.html</link>
+            <title><![CDATA[VIDEO]]></title>
+            <description><![CDATA[<p>A work done for Causeview, a donor management appWATCHCauseview from Cafeína on Vimeo.</p>]]></description>
+            <link>https://thegrid.ai/asgmedia/a-work-done-for-causeview-a-donor-management-app-watch/index.html</link>
             <guid isPermaLink="false">d67a08cb-39a4-471e-80c2-f1e2b2837af0</guid>
-            <pubDate>Thu, 04 Aug 2016 16:28:22 GMT</pubDate>
+            <pubDate>Thu, 04 Aug 2016 16:30:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
