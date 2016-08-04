@@ -4,8 +4,15 @@
         <description><![CDATA[MOTION / VFX / VIDEO PRODUCTION]]></description>
         <link>https://thegrid.ai/asgmedia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 18:12:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 18:13:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/asgmedia/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cafeína Reel]]></title>
+            <description><![CDATA[<article><h1>Cafeína Reel</h1><p>Aquí una pequeña muestra de lo que podemos hacer, visita nuestro sitio: www.cafeina.cc Here's an example of our work, visit our website: www.cafeina.cc</p></article>]]></description>
+            <link>https://vimeo.com/157135121</link>
+            <guid isPermaLink="false">34bdc8b7-d071-4c52-b04b-8f0e505cf130</guid>
+            <pubDate>Thu, 04 Aug 2016 18:13:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Outter Space Voyage]]></title>
             <description><![CDATA[<article><h1>Outter Space Voyage</h1><p>VFX para un pequeño clip espacial. Some VFX for a short Outter Space Clip.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=wMiLnyarvCQ&amp;feature=youtu.be</link>
             <guid isPermaLink="false">28589f79-2ea4-475c-988a-051d0e88b66f</guid>
             <pubDate>Thu, 04 Aug 2016 16:49:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Causeview]]></title>
-            <description><![CDATA[<article><h1>Causeview</h1><p>Causeview is built on the Salesforce.com platform, giving you best in class fundraising, events, volunteers and payment processing tools on top of the world's most popular CRM.</p></article>]]></description>
-            <link>https://vimeo.com/175953860</link>
-            <guid isPermaLink="false">26b2eb01-feb2-49eb-b276-592d95e926b8</guid>
-            <pubDate>Thu, 04 Aug 2016 16:37:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
