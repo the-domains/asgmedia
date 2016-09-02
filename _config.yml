@@ -1,20 +1,4 @@
-name: asgmedia
-favicon: null
-layout_spectrum: 0
 typography_spectrum: 0.4997
-title: Arturo Silva MOTION / VFX / VIDEO PRODUCTION
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#2e2f2f'
@@ -26,4 +10,20 @@ color:
   lightness: 0.1875
   saturation: 0.375
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: asgmedia
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 'Arturo Silva '
 purpose: []
